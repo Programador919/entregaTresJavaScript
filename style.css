@@ -1,0 +1,24 @@
+body{
+    background:  #0B0B61;
+}
+
+*{
+    color: #FFFF00;
+}
+
+#Update{
+    display: none;
+}
+
+.hidden{
+    position: relative;
+    right: 650px;
+}
+
+.show{
+    position: relative;
+    color: red;
+    padding-left: 10px;
+    transition: all 2s ease;
+}
+
